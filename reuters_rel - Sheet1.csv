@@ -1,0 +1,6 @@
+Source,Target,NER
+Sumita,Japan,WAS_BORN
+Sumita,Tokyo,WAS_BORN
+Sumita,Paris,LIVED_IN
+Sumita,USA,STUDIED_IN
+Tokyo,Japan,IS_CAPITAL
