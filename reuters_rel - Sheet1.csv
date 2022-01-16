@@ -1,6 +1,6 @@
 Source,Target,Relationship
-Sumita,Japan,WAS_BORN
-Sumita,Tokyo,WAS_BORN
-Sumita,Paris,LIVED_IN
-Sumita,USA,STUDIED_IN
-Tokyo,Japan,IS_CAPITAL
+2,1,WAS_BORN
+2,5,WAS_BORN
+2,3,LIVED_IN
+2,4,STUDIED_IN
+5,1,IS_CAPITAL
